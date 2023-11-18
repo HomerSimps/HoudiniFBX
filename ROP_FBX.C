@@ -108,7 +108,7 @@ static PRM_Name convertUnitScene[] = {
     PRM_Name("cm","Centimeter"),
     PRM_Name("dm","Decimeters"),
     PRM_Name("m", "Meter"),    
-    PRM_Name("km","Kilometre"),
+    PRM_Name("km","Kilometers"),
     PRM_Name("in","Inches"),    
     PRM_Name("ya","Yards"),
     PRM_Name("ml","Miles"),
