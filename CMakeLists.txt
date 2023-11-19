@@ -14,7 +14,6 @@ find_package( Houdini REQUIRED )
 
 set( library_name ROP_FBX )
 
-# Code generation for the embedded DS file in SOP_Star.C.
 
 
 # Add a library and its source files.
